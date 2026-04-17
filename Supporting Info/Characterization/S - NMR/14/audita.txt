@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ Z:/ftproot/LocalUSer/TMH/data/TMH/nmr/JSV187-DMSO/14/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-03-21 04:34:31.954 +0100>,<nmr>,<CZC7388LYD>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID '41292c3e-e71c-11ee-84e3-6805ca79c447'
+       started at 2024-03-21 01:45:03.400 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-03-21 04:34:31.954 +0100
+
+       configuration hash MD5:
+       D6 5E D1 2E D4 4E 95 5E 26 3F BB 03 F1 F3 4F AE
+       data hash MD5: 1152 * 256
+       30 0C EC 9E C5 DC 66 E3 07 04 97 78 F4 C1 2C 28>)
+(   2,<2024-03-21 04:34:32.047 +0100>,<nmr>,<CZC7388LYD>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: TMH
+       data hash MD5: 1152 * 256
+       30 0C EC 9E C5 DC 66 E3 07 04 97 78 F4 C1 2C 28>)
+(   3,<2024-03-21 04:34:35.235 +0100>,<nmr>,<CZC7388LYD>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 14 "JSV187-DMSO" "C:\Bruker\TopSpin3.6.5\data\TMH\nmr"
+       data hash MD5: 1152 * 256
+       30 0C EC 9E C5 DC 66 E3 07 04 97 78 F4 C1 2C 28>)
+##END=
+
+$$ hash MD5
+$$ 28 A4 D0 7D 56 CF 2C 54 69 42 34 C8 E6 F9 34 FD

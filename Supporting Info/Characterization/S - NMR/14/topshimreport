@@ -1,0 +1,42 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2024-03-21
+time = 01:43:56.228
+command = topshim 
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z108618_1022
+solvent = DMSO
+shim nucleus = 2H
+nucleus optimised for = 1H
+o1p (from lock) = 2.49 ppm
+
+Results:
+
+
+1D Shimming:
+Iteration  1: FWHM Before= 0.5 Hz, Target= 0.5 Hz, After= 0.5 Hz
+Iteration  2: FWHM Before= 0.5 Hz, Target= 0.4 Hz, After= 0.5 Hz
+Iteration  3: FWHM Before= 0.5 Hz, Target= 0.4 Hz, After= 0.4 Hz
+Shim succeeded
+
+Lineshape quality factor (1D spectrum, spinning) = 0.556
+
+shim changes: 
+Z	-4
+Z3	+42
+Z4	+10
+Z5	-210
+Z6	+1
+
+duration = 58 sec
+completed successfully
+finished Thu Mar 21 01:44:52 2024
+
+
+========================================================================

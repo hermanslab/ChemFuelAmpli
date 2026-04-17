@@ -1,0 +1,33 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 6	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2024-03-21 10:40:15.312 +0100  jorge@DESKTOP-MOQGTG6
+$$ C:/Users/jorge/Desktop/Jorge/JSV187-DMSO/14/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <C:/Users/jorge/Desktop/Jorge>
+##$DATPATH3= <C:/Users/jorge/Desktop/Jorge>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 13
+##$EXPNO3= 12
+##$NAME= <>
+##$NAME2= <JSV187-DMSO>
+##$NAME3= <JSV187-DMSO>
+##$PROCNO= 1
+##$PROCNO2= 1
+##$PROCNO3= 1
+##$SCALE2= 1
+##$SCALE3= 1
+##$TYPE= <>
+##$USER= <>
+##$USER2= <>
+##$USER3= <>
+##END=

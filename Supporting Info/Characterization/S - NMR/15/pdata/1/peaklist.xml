@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-03-21T07:42:05.356+01:00" expNo="15" name="JSV187-DMSO" owner="" procNo="1" source="C:\Bruker\TopSpin3.6.5\data\TMH\nmr">
+      <PeakPickDetails>F1=225.493607ppm, F2=-25.493675ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="130.722733" intensity="-1.145515e+000" type="0"/>
+    <Peak1D F1="124.105919" intensity="-1.014744e+000" type="0"/>
+    <Peak1D F1="106.152412" intensity="-2.748312e+000" type="0"/>
+    <Peak1D F1="75.998833" intensity="3.053244e+000" type="0"/>
+    <Peak1D F1="74.671135" intensity="-3.605469e+000" type="0"/>
+    <Peak1D F1="73.966309" intensity="-6.554414e+000" type="0"/>
+    <Peak1D F1="72.360527" intensity="4.331155e+000" type="0"/>
+    <Peak1D F1="71.731613" intensity="7.559983e+000" type="0"/>
+    <Peak1D F1="71.673042" intensity="1.338448e+001" type="0"/>
+    <Peak1D F1="70.530998" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="70.089241" intensity="6.964049e+000" type="0"/>
+    <Peak1D F1="70.024841" intensity="1.455579e+001" type="0"/>
+    <Peak1D F1="68.418999" intensity="1.030357e+001" type="0"/>
+    <Peak1D F1="68.284813" intensity="5.889298e+000" type="0"/>
+    <Peak1D F1="58.488487" intensity="-6.852425e+000" type="0"/>
+    <Peak1D F1="58.451027" intensity="-1.365664e+001" type="0"/>
+    <Peak1D F1="40.671730" intensity="-5.430352e-001" type="0"/>
+    <Peak1D F1="40.465820" intensity="-1.155127e+000" type="0"/>
+    <Peak1D F1="40.253540" intensity="-1.790732e+000" type="0"/>
+    <Peak1D F1="40.045761" intensity="-7.015405e-001" type="0"/>
+    <Peak1D F1="40.012924" intensity="4.761078e-001" type="0"/>
+    <Peak1D F1="39.837814" intensity="-5.756133e-001" type="0"/>
+    <Peak1D F1="37.489201" intensity="6.406584e-001" type="0"/>
+    <Peak1D F1="17.818285" intensity="-5.247295e+000" type="0"/>
+    <Peak1D F1="17.420050" intensity="-9.964334e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

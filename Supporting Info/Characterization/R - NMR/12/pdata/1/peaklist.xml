@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-03-22T01:43:37.390+01:00" expNo="12" name="JSV190-DMSO" owner="" procNo="1" source="C:\Bruker\TopSpin3.6.5\data\TMH\nmr">
+      <PeakPickDetails>F1=225.493607ppm, F2=-25.493675ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="166.435577" intensity="2.022027e+000" type="0"/>
+    <Peak1D F1="163.130783" intensity="3.690526e+000" type="0"/>
+    <Peak1D F1="152.114044" intensity="4.683945e+000" type="0"/>
+    <Peak1D F1="139.767090" intensity="2.088734e+000" type="0"/>
+    <Peak1D F1="133.742218" intensity="2.950007e+000" type="0"/>
+    <Peak1D F1="130.787643" intensity="1.879191e+000" type="0"/>
+    <Peak1D F1="130.116623" intensity="2.021029e+000" type="0"/>
+    <Peak1D F1="128.408310" intensity="1.495098e+000" type="0"/>
+    <Peak1D F1="125.242142" intensity="1.385718e+000" type="0"/>
+    <Peak1D F1="124.157188" intensity="1.954602e+000" type="0"/>
+    <Peak1D F1="122.694344" intensity="2.859861e+000" type="0"/>
+    <Peak1D F1="106.158813" intensity="3.027834e+000" type="0"/>
+    <Peak1D F1="76.004066" intensity="2.772641e+000" type="0"/>
+    <Peak1D F1="74.671883" intensity="3.920898e+000" type="0"/>
+    <Peak1D F1="73.966888" intensity="6.939707e+000" type="0"/>
+    <Peak1D F1="72.363922" intensity="3.972730e+000" type="0"/>
+    <Peak1D F1="71.729263" intensity="8.276760e+000" type="0"/>
+    <Peak1D F1="71.673927" intensity="1.330781e+001" type="0"/>
+    <Peak1D F1="70.531235" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="70.087143" intensity="7.882206e+000" type="0"/>
+    <Peak1D F1="70.024811" intensity="1.280922e+001" type="0"/>
+    <Peak1D F1="68.418205" intensity="9.479443e+000" type="0"/>
+    <Peak1D F1="68.284676" intensity="5.331688e+000" type="0"/>
+    <Peak1D F1="58.452839" intensity="1.341541e+001" type="0"/>
+    <Peak1D F1="40.625805" intensity="7.548179e+001" type="0"/>
+    <Peak1D F1="40.417263" intensity="2.253142e+002" type="0"/>
+    <Peak1D F1="40.208584" intensity="4.445436e+002" type="0"/>
+    <Peak1D F1="39.999981" intensity="5.216241e+002" type="0"/>
+    <Peak1D F1="39.791454" intensity="4.441526e+002" type="0"/>
+    <Peak1D F1="39.582867" intensity="2.248466e+002" type="0"/>
+    <Peak1D F1="39.374249" intensity="7.587844e+001" type="0"/>
+    <Peak1D F1="37.517967" intensity="1.144741e+000" type="0"/>
+    <Peak1D F1="17.820335" intensity="5.209578e+000" type="0"/>
+    <Peak1D F1="17.423655" intensity="9.810648e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

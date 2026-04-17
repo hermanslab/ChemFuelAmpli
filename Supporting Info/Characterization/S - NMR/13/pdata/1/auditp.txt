@@ -1,0 +1,42 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ Z:/ftproot/LocalUSer/TMH/data/TMH/nmr/JSV187-DMSO/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-03-21 01:43:14.513 +0100>,<nmr>,<CZC7388LYD>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'e0295ecc-e71b-11ee-ab5c-6805ca79c447'
+       started at 2024-03-21 01:42:20.631 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-03-21 01:43:14.513 +0100
+
+       configuration hash MD5:
+       D6 5E D1 2E D4 4E 95 5E 26 3F BB 03 F1 F3 4F AE
+       data hash MD5: 64K
+       DC A9 82 BC 62 22 01 BD E4 39 C0 6D 67 F9 02 D7>)
+(   2,<2024-03-21 01:43:14.575 +0100>,<nmr>,<CZC7388LYD>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: TMH
+       data hash MD5: 64K
+       DC A9 82 BC 62 22 01 BD E4 39 C0 6D 67 F9 02 D7>)
+(   3,<2024-03-21 01:43:15.263 +0100>,<nmr>,<CZC7388LYD>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       6E 94 1A 30 3F FA 7C 7D 76 C3 88 D3 38 A8 1B 5D>)
+(   4,<2024-03-21 01:43:15.466 +0100>,<nmr>,<CZC7388LYD>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 64K
+       87 58 BF AC 61 07 93 FB 96 8E 7E 66 FD 17 0D 6E>)
+(   5,<2024-03-21 01:43:15.591 +0100>,<nmr>,<CZC7388LYD>,<proc1d>,<TopSpin 3.6.5>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       79 AB 38 BD 86 6E 66 76 A0 28 D3 7A 5C D2 CA BB>)
+(   6,<2024-03-21 01:43:16.637 +0100>,<nmr>,<CZC7388LYD>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 13 "JSV187-DMSO" "C:\Bruker\TopSpin3.6.5\data\TMH\nmr"
+       data hash MD5: 64K
+       79 AB 38 BD 86 6E 66 76 A0 28 D3 7A 5C D2 CA BB>)
+##END=
+
+$$ hash MD5
+$$ 65 5C 21 C0 35 B8 84 ED 45 E9 BD B0 82 0C CD 6E
